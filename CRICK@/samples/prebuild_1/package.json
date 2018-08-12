@@ -1,0 +1,16 @@
+{
+  "name": "prebuild_1",
+  "version": "1.0.0",
+  "description": "This is the arch build of Crick@ website, skeleton",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "XON_Tech",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express-validator": "^5.3.0"
+  }
+}

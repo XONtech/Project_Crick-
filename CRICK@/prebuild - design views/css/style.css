@@ -1,0 +1,43 @@
+body{
+  margin: 0px;
+}
+.pipe{
+  border: 2px solid gold;
+  border-radius: 5px;
+  display: flex;
+  background-color: brown;
+}
+.xavbar{
+  /* background-color: yellow; */
+  padding: 0px 0px 0px 0px;
+  list-style: none;
+  height: 30px;
+}
+.xlement{
+  /* display: inline-block; */
+  margin: 0px 5px 0px 5px
+}
+.left{
+  float: left;
+}
+.xogo{
+  text-align: center;
+  display: inline-block;
+  width: 500px;
+  background-color: red;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+  height: 30px;
+
+}
+.right{
+  float: right;
+}
+.content{
+  /* background-image: url("../images/wall.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover; */
+}
